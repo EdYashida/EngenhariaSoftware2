@@ -1,6 +1,0 @@
-model\Emprestimo.class
-model\Livro.class
-model\Item.class
-model\Titulo.class
-model\Aluno.class
-dao\Alunodao.class
